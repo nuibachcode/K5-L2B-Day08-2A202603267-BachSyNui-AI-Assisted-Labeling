@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,24,gan tay 4 anh gold hoan toan khong AI
+batch_review,24,60,duyet 24 anh batch co prelabel va bat bay
